@@ -1,0 +1,4 @@
+Cahaya Resolusi
+- Konsisten belajar HTML
+- Konsisten belajar CSS
+- Konsisten mempelajari javascript

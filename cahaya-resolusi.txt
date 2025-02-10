@@ -1,6 +1,5 @@
 Cahaya Resolusi
-- Konsisten belajar HTML
-- Konsisten belajar CSS
 - Konsisten mempelajari javascript
 - Konsisten belajar framework react js
 - Konsisten belajar framework tailwind css
+- Membuat portofolio
